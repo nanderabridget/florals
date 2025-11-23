@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #ffffff;
+    font-size: 22px;
+    word-spacing: 100px;
+    text-align: right;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.menu{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 60px;
+}
+
+#pages{
+    padding-left: 500px;
+margin-top: 8px;
+}
+#mn{
+    word-spacing: 50px;
+    margin-top: 8px;
+}
+
+li{
+  padding-left: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+h4{
+    margin-left: 50px;
+    font-size: 22px;
+    color: #ffffff;
+    margin-top: 15px;
+    color: rgb(152, 100, 250);
+    word-spacing: 20px;
+    
+}
+.form{
+    border: solid black 5px;
+    padding: 10px;
+    width: 500px;
+    height:600px;
+    align-content: center;
+    border-radius: 5px;
+}
+input{
+    width: 400px;
+}
+
+.wd{
+    margin-left: 500px;
+}
+#speceoza{
+    margin-left: 170px;
+}
